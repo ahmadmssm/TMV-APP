@@ -1,0 +1,133 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "[About Teavaro](https://teavaro.com/)" : {
+
+    },
+    "[consenthub](https://consenthub.utiq.com)" : {
+
+    },
+    "[Privacy Policy](https://tv-public-file.s3.eu-central-1.amazonaws.com/teavaro-manga-viewer-privacy-policy.html)" : {
+
+    },
+    "[Terms and Conditions](https://tv-public-file.s3.eu-central-1.amazonaws.com/teavaro-manga-viewer-terms-conditions.html)" : {
+
+    },
+    "[Utiq’s Privacy Statement](https://consenthub.utiq.com/pages/privacy-statement)" : {
+
+    },
+    "&" : {
+
+    },
+    "%@ pages" : {
+
+    },
+    "Accept All" : {
+
+    },
+    "All chapters" : {
+
+    },
+    "Are you sure you want to delete the cached data and reset accepted permissions ?" : {
+
+    },
+    "Author: " : {
+
+    },
+    "Backed by [MangaDex APIs]( https://api.mangadex.org/docs/)" : {
+
+    },
+    "Cancel" : {
+
+    },
+    "CardGroupBoxStyle" : {
+
+    },
+    "Chapter %@" : {
+
+    },
+    "Clear Data" : {
+
+    },
+    "Clear Data!" : {
+
+    },
+    "Consent to use the Utiq service on Teavaro Manga Viewer" : {
+
+    },
+    "Contact Us" : {
+
+    },
+    "Content Rating: " : {
+
+    },
+    "Credits" : {
+
+    },
+    "Data Cleared Successfully!" : {
+
+    },
+    "HTTP Logger" : {
+
+    },
+    "Key" : {
+      "extractionState" : "manual"
+    },
+    "Label" : {
+
+    },
+    "Language %@" : {
+
+    },
+    "Last Chapter: " : {
+
+    },
+    "Manage Teavaro Privacy Settings" : {
+
+    },
+    "Manage UTIQ Privacy Settings" : {
+
+    },
+    "N/A" : {
+
+    },
+    "OK" : {
+
+    },
+    "Page %@ of %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Page %1$@ of %2$@"
+          }
+        }
+      }
+    },
+    "Refresh" : {
+
+    },
+    "Reject All" : {
+
+    },
+    "Save Settings" : {
+
+    },
+    "Summary:" : {
+
+    },
+    "Teavaro Manga Viewer App is all about your Privacy" : {
+
+    },
+    "Version %@" : {
+
+    },
+    "View latest chapter" : {
+
+    },
+    "Year: " : {
+
+    }
+  },
+  "version" : "1.0"
+}

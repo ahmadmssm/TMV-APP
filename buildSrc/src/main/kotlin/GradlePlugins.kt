@@ -1,0 +1,15 @@
+object GradlePlugins {
+    const val maven = "maven"
+    const val android = "android"
+    const val androidLibrary = "com.android.library"
+    const val androidApplication = "com.android.application"
+    const val kotlin = "kotlin"
+    const val kotlinAndroid = "kotlin-android"
+    const val ktorfit = "de.jensklingenberg.ktorfit"
+    const val ksp = "com.google.devtools.ksp"
+    const val kotlinMultiplatform = "multiplatform"
+    const val kotlinSerialization = "plugin.serialization"
+    const val buildKonfig = "com.codingfeline.buildkonfig"
+    const val realm = "io.realm.kotlin"
+    const val dependencyUpdatesCheck = "name.remal.check-dependency-updates"
+}

@@ -1,0 +1,18 @@
+//
+//  Development.xcconfig
+//  iosApp
+//
+//  Created by Ahmad Mahmoud on 06/10/2023.
+//  Copyright © 2023 orgName. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+// Application name
+APPLICATION_NAME = TMV (Debug)
+//
+BUNDLE_SHORT_VERSION = 1.0.53
+BUNDLE_VERSION = ${RELEASE_TYPR}-${BUNDLE_SHORT_VERSION}
+RELEASE_TYPR = alpha
+PRODUCT_BUNDLE_IDENTIFIER = com.teavaro.mangaViewer.debug
